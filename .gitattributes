@@ -1,0 +1,3 @@
+# Preserve the release manifest byte hashes on Windows and Linux.
+# -text disables automatic EOL conversion, not source diffs.
+* -text

@@ -1,0 +1,4 @@
+psutil
+pyserial
+requests
+PyGetWindow
